@@ -7,3 +7,5 @@ This project use these technologies： freemarker+spring data jpa+hibernate+jdbc
 This project will show you how to config multiple datasouce.
 
 This project will show you how to manipulate database in three way.
+
+This project support transaction perfect in three ways and two datasource!
