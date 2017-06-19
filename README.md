@@ -1,4 +1,4 @@
-This a demo project for how to user spring boot.
+This a demo project for how to use spring boot.
 
 This project is base on spring boot 1.5.4.
 
